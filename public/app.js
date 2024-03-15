@@ -15,7 +15,7 @@ const getTable = () => {
         ajax.open("GET" , `${host}/api/f1/2008/driverStandings`);
 
         ajax.onload = () => {
-
+            
         }
 
 
